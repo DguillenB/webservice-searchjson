@@ -1,0 +1,62 @@
+[
+    {
+        "titulo": "Ejemplo de titulo 1",
+        "autor": "Nombre autor 1",
+        "isbn": "0000000000001",
+        "fecha_nov": "20170101"
+    },
+    {
+        "titulo": "Ejemplo de titulo 2",
+        "autor": "Nombre autor 2",
+        "isbn": "0000000000002",
+        "fecha_nov": "20170102"
+    },
+    {
+        "titulo": "Ejemplo de titulo 3",
+        "autor": "Nombre autor 3",
+        "isbn": "0000000000003",
+        "fecha_nov": "20170103"
+    },
+    {
+        "titulo": "Ejemplo de titulo 4",
+        "autor": "Nombre autor 4",
+        "isbn": "0000000000004",
+        "fecha_nov": "20170104"
+    },
+    {
+        "titulo": "Ejemplo de titulo 5",
+        "autor": "Nombre autor 5",
+        "isbn": "0000000000005",
+        "fecha_nov": "20170105"
+    },
+    {
+        "titulo": "Ejemplo de titulo 6",
+        "autor": "Nombre autor 1",
+        "isbn": "0000000000006",
+        "fecha_nov": "20170106"
+    },
+    {
+        "titulo": "Ejemplo de titulo 7",
+        "autor": "Nombre autor 1",
+        "isbn": "0000000000007",
+        "fecha_nov": "20170107"
+    },
+    {
+        "titulo": "Ejemplo de titulo 8",
+        "autor": "Nombre autor 2",
+        "isbn": "0000000000008",
+        "fecha_nov": "20170108"
+    },
+    {
+        "titulo": "Ejemplo de titulo 9",
+        "autor": "Nombre autor 3",
+        "isbn": "0000000000009",
+        "fecha_nov": "20170109"
+    },
+    {
+        "titulo": "Ejemplo de titulo 10",
+        "autor": "Nombre autor 10",
+        "isbn": "0000000000010",
+        "fecha_nov": "20170110"
+    }
+]
